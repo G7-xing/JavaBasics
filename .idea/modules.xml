@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-01-ArrayAssign/demo-01-ArrayAssign1.iml" filepath="$PROJECT_DIR$/demo-01-ArrayAssign/demo-01-ArrayAssign1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-02-SingleModel/demo-02-SingleModel1.iml" filepath="$PROJECT_DIR$/demo-02-SingleModel/demo-02-SingleModel1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-03-第二阶段/demo-03-第二阶段.iml" filepath="$PROJECT_DIR$/demo-03-第二阶段/demo-03-第二阶段.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-04-第三阶段/demo-04-第三阶段.iml" filepath="$PROJECT_DIR$/demo-04-第三阶段/demo-04-第三阶段.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoTankGame/demoTankGame.iml" filepath="$PROJECT_DIR$/demoTankGame/demoTankGame.iml" />
+    </modules>
+  </component>
+</project>
